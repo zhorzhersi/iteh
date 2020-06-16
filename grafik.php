@@ -20,7 +20,7 @@ if($red->status=="admin"){
     // Funkcija šalje asinhrono JSON podatke, koje PHP fajl podaci.php generiše iz baze
     function crtajGrafik() {
       var jsonData = $.ajax({
-      url: "http://localhost/kuce/analizaIznajmljivanja.php",
+      url: "http://localhost/zub/analizaIznajmljivanja.php",
       dataType:"json",
       async: false
     }).responseText;  

@@ -6,7 +6,7 @@
 
 	if(isset($_POST['rezervisi'])){//ako je pritisnuto dugme rezervisi poziva funkciju web servisa za rezervisanje
 		$pas=$_GET["pasId"];
-	$url = "http://localhost/kuce/rezervisi";
+	$url = "http://localhost/zub/rezervisi";
 
 $data = array(
   'usluga' => $usluga,
@@ -29,7 +29,7 @@ $odgovor = $response['poruka'];
 echo $odgovor;
 		}
 		
-$url = 'localhost/kuce/usluge/'.$_GET["uslugaID"].'.json';
+$url = 'localhost/zub/usluge/'.$_GET["uslugaID"].'.json';
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($curl, CURLOPT_HTTPHEADER, array('Accept: application/json', 'Content-Type: application/json'));

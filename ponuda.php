@@ -9,15 +9,6 @@
 <hr>
 
 	<?php 
-        // $url = 'localhost/kuce/psi.json';
-        // $curl = curl_init($url);
-        // curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-        // curl_setopt($curl, CURLOPT_HTTPHEADER, array('Accept: application/json', 'Content-Type: application/json'));
-        // curl_setopt($curl, CURLOPT_POST, false);
-
-        // $curl_odgovor = curl_exec($curl);
-        // curl_close($curl);
-        // $jsonobj = json_decode($curl_odgovor);
         $jsonobj = json_decode($db->dajUsluge());
 
 	 ?>

@@ -1023,3 +1023,152 @@ Stack trace:
 [16-Jun-2020 18:43:51 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
 [16-Jun-2020 18:44:16 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
 [16-Jun-2020 18:44:30 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:10:11 Europe/Berlin] PHP Warning:  getimagesize(): Filename cannot be empty in C:\xampp\htdocs\zub\upload.php on line 15
+[16-Jun-2020 19:10:58 Europe/Berlin] PHP Warning:  getimagesize(): Filename cannot be empty in C:\xampp\htdocs\zub\upload.php on line 15
+[16-Jun-2020 19:12:41 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:12:47 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:12:53 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:20:12 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:28:19 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:45 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:45 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:46 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:46 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:48 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:28:48 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:29:17 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:29:17 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:29:18 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:29:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:29:38 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:29:38 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:30:10 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:30:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:30:11 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:30:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:30:12 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:30:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:32:10 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:32:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:32:12 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:32:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:32:19 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:32:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:32:20 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:32:20 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:33:46 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:33:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:33:52 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:33:52 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:33:52 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:34:55 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:34:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:12 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:13 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:14 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:27 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:27 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:35:34 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:36 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:40 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:41 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:41 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:42 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:42 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:35:46 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:46 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:35:47 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:35:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:41:31 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:41:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:42:58 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:42:58 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:00 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:00 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:02 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:02 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:43:05 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:05 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:43:07 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:10 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:12 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:12 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:43:15 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:15 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:15 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:43:19 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:19 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:43:20 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:20 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:34 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:37 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:37 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:43:40 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:40 Europe/Berlin] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\zub\ponudaShow.php on line 36
+[16-Jun-2020 19:43:41 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:43:41 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:46:11 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:46:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:46:57 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:46:57 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:46:57 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:46:57 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:46:57 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:46:57 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:00 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:00 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:00 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:00 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:01 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:01 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:01 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:02 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:02 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:02 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:10 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:10 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:10 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:11 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:11 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:12 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:12 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:13 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:14 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:14 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
+[16-Jun-2020 19:47:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224

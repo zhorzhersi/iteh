@@ -133,38 +133,3 @@ else{//ako nema dostupnog datuma
 <?php endforeach; ?>
 </div>
 </div>
-
-
-
-
-
-<script>
-
-  // const iznos = document.querySelector('#iznos');
-  // const valutaiz = document.querySelector('#izvalute');
-  // const valutau = document.querySelector('#uvalutu');
-  // const konvertuj = document.querySelector('#konvertuj');
-  // const rezultatspan = document.querySelector('#rezultatspan');
-
-
-  // const Http  = new XMLHttpRequest();
-  // const url = 'https://api.kursna-lista.info/0e0156083e1ccc17dc40319ca542628a/konvertor/';
-  // Http.open('GET', url);
-  // Http.send();
-
-  // Http.onreadystatechange = (e) => {
-  //   console.log(Http.responseText);
-  // }
-
-  // konvertuj.addEventListener('click', () => {
-  //   let rezultat;
-
-
-
-
-  //   rezultatspan.innerHTML = rezultat;
-  // });
-
-
-
-</script>

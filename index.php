@@ -7,7 +7,7 @@ ini_set("error_log", "php_logs.log");
 
 include('login.php');
 if(isset($_SESSION['login_user'])){
-header("location: profil.php");//bilo je profil.php mi promenili na ponudu ja vratila
+header("location: profil.php");
 }
 ?>
 <html>

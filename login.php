@@ -17,7 +17,7 @@ else
 
 $username=$_POST['korisnickoime'];
 $password=$_POST['sifra'];
-// To protect MySQL injection for Security purpose
+// To protect MySQL injection for Security purpose      
 $username = stripslashes($username);
 $password = stripslashes($password);
 // SQL query to fetch information of registerd users and finds user match.
