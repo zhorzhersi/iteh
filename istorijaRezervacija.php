@@ -15,7 +15,7 @@ $(document).ready(function(){
 		language: {
   sUrl: "DataTables-1.10.4/i18n/serbian.json"
 },
-		aoColumns: [ //sprecava izmenu polja
+		aoColumns: [ //sprecava izmenu polja....
             null,
             null,
             null,
@@ -30,7 +30,7 @@ $(document).ready(function(){
 </script>
 <style type="text/css">
 .row_selected td {
-    background-color: #d3d3d3 !important; /* Add !important to make sure override datables base styles */
+    background-color: #d3d3d3 !important;
 }
 .tabela{
 text-align:center;

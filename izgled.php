@@ -34,7 +34,6 @@ ini_set("error_log", "php_logs.log");
     
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.16/datatables.min.js"></script>
-    <!-- <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css" rel="stylesheet" integrity="sha384-N8DsABZCqc1XWbg/bAlIDk7AS/yNzT5fcKzg/TwfmTuUqZhGquVmpb5VvfmLcMzp" crossorigin="anonymous"> -->
     <script src="js/jquery-1.11.2.min.js"></script>
 <script src="DataTables-1.10.4/media/js/jquery.dataTables.min.js"></script>
 <script src="jeditable/jquery.jeditable.js"></script>

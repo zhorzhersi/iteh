@@ -119,7 +119,7 @@ $status->appendChild($dom->createTextNode($red->status));
 //cuvanje XML-a
 $xml_string = $dom->saveXML(); 
 echo $xml_string;
-//zatvaranje konekcije
+//zatvaranje konekcije.
 
 	return false;
 });
